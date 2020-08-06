@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hola, soy Dalai Aguirre 👋
+
+ ### En este repositorio vas a encontrar cosas muy interesantes. *El analisis de datos es mi pasion* 
+
+
+ #### Estos son mis proyectos mas **interesantes** :
+* [Proyecto 1](http://github.com)
+* [Proyecto 2](http://github.com)
+* [Proyecto 3](http://github.com)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **dalai2/dalai2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
